@@ -1,6 +1,6 @@
 Name:		texlive-functional
 Version:	63640
-Release:	1
+Release:	2
 Summary:	Provide an intuitive functional programming interface for LaTeX2
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/functional

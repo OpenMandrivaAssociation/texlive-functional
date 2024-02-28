@@ -1,5 +1,5 @@
 Name:		texlive-functional
-Version:	65485
+Version:	69929
 Release:	1
 Summary:	Provide an intuitive functional programming interface for LaTeX2
 Group:		Publishing

@@ -3,7 +3,7 @@ Version:	69929
 Release:	1
 Summary:	Provide an intuitive functional programming interface for LaTeX2
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/functional
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/functional
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/functional.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/functional.doc.r%{version}.tar.xz
